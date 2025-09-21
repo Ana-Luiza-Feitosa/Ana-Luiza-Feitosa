@@ -3,11 +3,22 @@
   <div style="flex: 1; margin-right: 20px;">
     <!-- Texto -->
     <p align="left">
-      Tenho 19 anos e atualmente estou cursando o 
-      <strong>Bacharelado Interdisciplinar em Ciência e Tecnologia</strong> na UNIFESP, com trajetória para Engenharia de Computação.
+      Tenho 20 anos e atualmente estou cursando o 
+      <strong>Bacharelado Interdisciplinar em Ciência e Tecnologia</strong> na Universidade Federal de São Paulo (UNIFESP), com trajetória para <strong>Engenharia de Computação</strong>.
     </p>
-    <p align="left">🔭 Atualmente estou trabalhando em alguns projetos pessoais.</p>
-    <p align="left">📚 Estou aprendendo <strong>Data Science</strong> e <strong>Organização de Computadores</strong>.</p>  
+    <p align="left">🔭 Atualmente estou trabalhando em alguns projetos pessoais. Alguns dos meus projetos mais recentes são:</p>
+    <ul>
+    <li><a href="https://github.com/Ana-Luiza-Feitosa/mips-processor-verilog">Design e Implementação de um Processador MIPS em Verilog com a utilização de Kit FPGA Altera DE2-115</a></li>
+    <li> <a href="https://github.com/Ana-Luiza-Feitosa/analise-de-dados-em-grafos">Análise de dados em formato de grafos: Congressional Twitter Network (SNAP)</a></li>
+    </ul>
+    <p align="left">📚 Estou aprendendo:
+      <ul>
+        <li>Systems Modeling Language (SysML);</li>
+        <li>Aplicações IoT com ESP32 e Arduino Mega;</li>
+        <li>Eletrônica Aplicada;</li>
+        <li>Front-end para aplicações web.</li>
+      </ul>
+    </p>  
     <!-- Badges de redes sociais -->
     <a href="mailto:contato@analufeitosaa.com">
       <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -17,10 +28,4 @@
     </a>
   </div>
 
-  <div>
-    <!-- Gráfico de status -->
-    <a href="https://github.com/Ana-Luiza-Feitosa">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Luiza-Feitosa&layout=compact&langs_count=7&theme=panda">
-    </a>
-  </div>
 </div>
