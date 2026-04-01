@@ -3,8 +3,8 @@
   <div style="flex: 1; margin-right: 20px;">
     <!-- Texto -->
     <p align="left">
-      Tenho 20 anos e atualmente estou cursando o 
-      <strong>Bacharelado Interdisciplinar em Ciência e Tecnologia</strong> na Universidade Federal de São Paulo (UNIFESP), com trajetória para <strong>Engenharia de Computação</strong>.
+      Sou
+      <strong>Bacharel em Interdisciplinar em Ciência e Tecnologia</strong> pela Universidade Federal de São Paulo (UNIFESP), e atualmente curso <strong>Engenharia de Computação</strong>, também na Universidade Federal de São Paulo (UNIFESP).
     </p>
     <p align="left">🔭 Atualmente estou trabalhando em alguns projetos pessoais. Alguns dos meus projetos mais recentes são:</p>
     <ul>
